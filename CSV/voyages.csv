@@ -1,0 +1,30 @@
+﻿id;id_navire;duree;distance;date_debut;date_fin;type;localisation;provenance;destination
+1;1;4;1500;1755-03-19;1755-03-21;moyen;Europe;port du Havre;port de Valence
+2;2;7;999;1705-02-25;1705-03-02;court;Europe;port de Marseille;port de Venise
+3;5;95;7000;1787-08-23;1787-09-24;long;Intercontinental;port de la Havane;port de Lisbonne
+4;31;45;3000;1750-01-01;1750-02-16;long;Asie;port de Yokohama;port de Mumbai
+5;31;45;3000;1750-04-01;1750-05-16;long;Asie;port de Mumbai;port de Yokohama
+6;34;20;999;1725-01-01;1725-01-20;court;Asie;port de Shanghai;port de Busan
+7;35;20;999;1725-01-01;1725-01-20;court;Asie;port de Shanghai;port de Busan
+8;34;20;999;1725-01-21;1725-02-10;court;Asie;port de Busan;port de Shanghai
+9;35;20;999;1725-01-21;1725-02-10;court;Asie;port de Busan;port de Shanghai
+10;24;90;7000;1720-01-01;1720-03-01;long;Intercontinental;port de Fleetwood;port de Mumbai
+11;28;100;5000;1720-01-01;1720-03-01;long;Intercontinental;port de Fleetwood;port de Jacksonville
+12;26;110;9000;1758-11-18;1759-02-25;long;Intercontinental;port du Havre;port de Rio de Janeiro
+13;21;20;999;1750-04-01;1750-05-16;court;Europe;port de l'Ouest;port de Rotterdam
+14;2;10;500;1787-08-23;1787-09-24;court;Europe;port de Ruhrot;port d'Hambourg
+15;1;3;500;1787-08-23;1787-08-26;court;Europe;port de Marseille;port du Havre
+16;15;5;750;1725-01-21;1725-01-26;court;Oceanie;port de Sydney;port de Newcastle
+17;15;20;1500;1725-01-01;1725-01-20;moyen;Intercontinental;port de Sydney;port de Singapour
+18;18;140;9000;1733-05-10;1733-10-22;long;Amerique;port de Seattle;port de Santa Cruz
+19;9;50;2500;1736-01-01;1736-02-20;long;Amerique;port de Rio de Janeiro;port de Memphis
+20;13;20;1500;1755-03-19;1755-03-21;moyen;Amerique;port de Jacksonville;port de Memphis
+21;14;20;1500;1755-03-19;1755-03-21;moyen;Amerique;port de la Nouvelle Orleans;port de Detroit
+22;35;20;1500;1755-03-19;1755-03-21;moyen;Asie;port de Singapour;port de Shanghai
+23;35;20;1500;1756-03-19;1756-03-21;moyen;Asie;port de Singapour;port de Shanghai
+24;35;20;1500;1757-03-19;1757-03-21;moyen;Asie;port de Singapour;port de Shanghai
+25;35;20;1500;1758-03-19;1758-03-21;moyen;Asie;port de Singapour;port de Shanghai
+26;6;10;999;1787-02-15;1787-02-26;court;Europe;port de Rotterdam;port de Bristol
+27;6;10;999;1788-01-01;1788-01-11;court;Europe;port de Rotterdam;port de Bristol
+28;6;10;999;1789-01-01;1789-01-11;court;Europe;port de Rotterdam;port de Bristol
+29;6;10;999;1790-01-01;1790-01-11;court;Europe;port de Rotterdam;port de Bristol

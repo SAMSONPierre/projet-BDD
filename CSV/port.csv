@@ -1,0 +1,64 @@
+﻿nom;nation;localisation;categorie
+port de Saint Nicolas;Argentine;Amerique;1
+port de Buenos Aires;Argentine;Amerique;2
+port de Santa Cruz;Argentine;Amerique;5
+port de Santa Fe;Argentine;Amerique;2
+port de Belem;Bresil;Amerique;2
+port de Maraba;Bresil;Amerique;2
+port de Rio de Janeiro;Bresil;Amerique;5
+port de Rio Grande;Bresil;Amerique;5
+port de Santos;Bresil;Amerique;3
+port de la Havane;Cuba;Amerique;5
+port de Baltimore;USA;Amerique;4
+port de Boston;USA;Amerique;1
+port de Detroit;USA;Amerique;3
+port de Houston;USA;Amerique;4
+port de Jacksonville;USA;Amerique;5
+port de Memphis;USA;Amerique;5
+port de la Nouvelle Orleans;USA;Amerique;4
+port de Seattle;USA;Amerique;4
+port de Shanghai;Chine;Asie;5
+port de Canton;Chine;Asie;4
+port de Tsingtao;Chine;Asie;3
+port de Hong Kong;Chine;Asie;2
+port de Busan;Coree;Asie;5
+port de Jeju;Coree;Asie;3
+port de Incheon;Coree;Asie;2
+port de Calcutta;Inde;Asie;3
+port de Mumbai;Inde;Asie;5
+port de Jawaharlal Nehru;Inde;Asie;3
+port de Kobe;Japon;Asie;5
+port de Nagoya;Japon;Asie;4
+port de Niigata;Japon;Asie;3
+port d'Osaka;Japon;Asie;5
+port de Tokyo;Japon;Asie;2
+port de Yokohama;Japon;Asie;5
+port de Singapour;Singapour;Asie;5
+port d'Altenwerder;Allemagne;Europe;3
+port interieur de Duisbourg;Allemagne;Europe;2
+port d'Hambourg;Allemagne;Europe;4
+port de Mayence;Allemagne;Europe;3
+port de l'Ouest;Allemagne;Europe;4
+port de Ruhrot;Allemagne;Europe;4
+port de Barcelone;Espagne;Europe;3
+port de Cadiz;Espagne;Europe;4
+port de Valence;Espagne;Europe;3
+port de Bordeaux;France;Europe;3
+port de Brest;France;Europe;5
+port de Dunkerque;France;Europe;3
+port du Havre;France;Europe;5
+port de Marseille;France;Europe;3
+port de Toulon;France;Europe;1
+port de Rotterdam;Hollande;Europe;4
+port de Venise;Italie;Europe;3
+port de Palerme;Italie;Europe;4
+port de Syracuse;Italie;Europe;3
+port de Lisbonne;Portugal;Europe;5
+port de Bristol;Royaume-Uni;Europe;3
+port de Fleetwood;Royaume-Uni;Europe;5
+port de Liverpool;Royaume-Uni;Europe;2
+port de Yarmouth;Royaume-Uni;Europe;3
+port de Darwin;Australie;Oceanie;2
+port de Melbourne;Australie;Oceanie;2
+port de Newcastle;Australie;Oceanie;5
+port de Sydney;Australie;Oceanie;5
